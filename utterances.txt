@@ -1,7 +1,0 @@
-AllStar your favorite poem
-OriginStory your origin story
-JohnsSong play johns favorite song
-PlaySoundFile play some tunes
-InterestingFact tell me an interesting fact
-InterestingFact tell me a fact
-InterestingFact tell me something interesting
