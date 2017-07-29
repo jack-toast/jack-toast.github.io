@@ -1,1 +1,5 @@
-## This will function as a hub to share anything that I'm working on. 
+# Jack Toast's Project Hub
+
+###### Main Projects:
+* [Gladexa](https://github.com/jack-toast/gladexa)
+* [Office Alexa](https://github.com/jack-toast/esc_alexa)
