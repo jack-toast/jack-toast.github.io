@@ -13,5 +13,3 @@ Asteroids are spawned by looking at a black and white image (Script: assets/scri
 ### [Gladexa](https://github.com/jack-toast/gladexa)
 Alexa based project that uses Portal's GLaDOS as the voice. Doesn't work all that well now. Looking to integrate with my home automation in the future.
 
-### [Fluffy Lookin](https://github.com/jack-toast/nerf-turret)
-Fluffy lookin nerf-herder. It's a nerf turret with face recognition. That's pretty much it.
